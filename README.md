@@ -1,0 +1,1 @@
+# Mocks de dépendances externes
